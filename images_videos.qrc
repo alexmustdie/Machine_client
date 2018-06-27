@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Bolt1.jpeg</file>
+        <file>images/Bolt2.jpeg</file>
+        <file>images/Bolt3.jpeg</file>
+        <file>images/Bolt4.jpeg</file>
+        <file>images/Bolt5.jpeg</file>
+        <file>images/Bolt6.jpeg</file>
+        <file>images/Ring1.jpeg</file>
+        <file>images/Ring2.jpeg</file>
+        <file>images/Ring3.jpeg</file>
+        <file>images/Ring4.jpeg</file>
+        <file>images/Ring5.jpeg</file>
+        <file>images/Ring6.jpeg</file>
+        <file>images/Ring7.jpeg</file>
+        <file>images/Ring8.jpeg</file>
+        <file>images/Shovel1.jpeg</file>
+        <file>images/Shovel2.jpeg</file>
+        <file>images/Shovel3.jpeg</file>
+        <file>images/Shovel4.jpeg</file>
+        <file>images/Shovel5.jpeg</file>
+        <file>images/Shovel6.jpeg</file>
+        <file>images/Shovel7.jpeg</file>
+        <file>images/Shovel8.jpeg</file>
+        <file>images/Shovel9.jpeg</file>
+        <file>images/Shovel10.jpeg</file>
+        <file>images/Shovel11.jpeg</file>
+        <file>images/Shovel12.jpeg</file>
+        <file>images/keepcalm.png</file>
+        <file>images/stop.png</file>
+        <file>images/standby.jpg</file>
+        <file>videos/installation1.wmv</file>
+        <file>videos/installation2.wmv</file>
+        <file>videos/installation3.wmv</file>
+        <file>videos/shipping1.wmv</file>
+    </qresource>
+</RCC>
